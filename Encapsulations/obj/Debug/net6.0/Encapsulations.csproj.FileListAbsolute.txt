@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\bin\Debug\net6.0\Encapsulations.exe
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\bin\Debug\net6.0\Encapsulations.deps.json
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\bin\Debug\net6.0\Encapsulations.runtimeconfig.json
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\bin\Debug\net6.0\Encapsulations.dll
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\bin\Debug\net6.0\Encapsulations.pdb
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.dll
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\refint\Encapsulations.dll
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.pdb
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\Encapsulations.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Encapsulations\Encapsulations\obj\Debug\net6.0\ref\Encapsulations.dll
